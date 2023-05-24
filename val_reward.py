@@ -8,7 +8,7 @@ import time
 import json
 import subprocess
 
-recipient_addr='0x693a09ddf93324781afc5ebfdc0ff3661a8520f0263e483545256e52e55ef90a'
+recipient_addr='YOUR_ADDR_TO_RECIEVE_SUI'
 gas_budget = 20000000
 
 print("1. >> sui client objects | grep StakedSui")
